@@ -29,14 +29,14 @@ Sou um desenvolvedor com mais de 8 anos de experiência, especializado em .NET, 
 
 ## Experiência
 
-### 🌐 **Back-End Developer III** | **ACT Digital**  
-*Outubro 2024*  
+### 🌐 **Back-End Developer III** | **Grupo Casas Bahia**  
+*Abril 2023 - Abril 2024*  
 - Desenvolvi sistemas robustos e escaláveis com ênfase em segurança cibernética.
 - Implementação de novas funcionalidades para otimizar processos internos, usando tecnologias como .NET, AWS e Docker.
 - Liderança de iniciativas de automação e integração de sistemas legados.
 
-### 🏦 **Desenvolvedor Back-End** | **GFT Technologies**  
-*Setembro 2024*  
+### 🏦 **Desenvolvedor Back-End** | **BRQ Digital Solutions**  
+*Abril 2022 - Fevereiro 2023*  
 - Contribuí para a criação de soluções inovadoras no setor financeiro.
 - Trabalhei em estreita colaboração com equipes de segurança para garantir a proteção de dados sensíveis.
 
