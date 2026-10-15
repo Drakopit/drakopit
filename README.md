@@ -4,7 +4,7 @@
 
 I'm a Cyber Security Engineer II at **Bradesco**, currently working in the **IAM Orchestration** team, with a focus on identity and access management, application security, Secure SDLC, DevSecOps, and critical systems support.
 
-I also have over **8 years of experience** as a **Senior .NET / Backend Engineer**, building scalable, secure, and high-performance systems for companies in the banking, financial, retail, insurance, and technology sectors.
+I also have over **10 years of experience** as a **Senior .NET / Backend Engineer**, building scalable, secure, and high-performance systems for companies in the banking, financial, retail, insurance, and technology sectors.
 
 My background combines software engineering, security, architecture, automation, and cloud-native development.
 
